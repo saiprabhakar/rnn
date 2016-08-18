@@ -1,3 +1,10 @@
+Speaker recogntion project:
+
+scripts:
+testing_speaker_recognition.lua
+training_speaker_recognition.lua
+
+
 # rnn: recurrent neural networks #
 
 This is a Recurrent Neural Network library that extends Torch's nn. 
